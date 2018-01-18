@@ -1,0 +1,129 @@
+/* Changing font of body */
+		body {
+		font-family: "Roboto", sans-serif;
+		}
+
+	/* Navbar Style */
+
+
+	/* Front Image */
+	.frontimage {
+		display: block;
+		margin: auto;
+		width: 500px;
+	}
+
+	/* Name under image */
+	.myname {
+		text-align: center;
+		font-family: "Raleway", sans-serif;
+		font-size: 30px;
+		letter-spacing: 7px;
+	}
+
+	.undername {
+		font-family:"Montserrat", sans-serif;
+		font-size: 15px;
+		text-align: center;
+	}
+
+	/* About me */
+
+	.sectionheaders {
+		text-align: center;
+		font-family:"Raleway", sans-serif;
+		font-size: 50px;
+		letter-spacing: 10px;
+		max-width: 100%;
+		padding-top: 5%;
+		padding-bottom: 5%;
+	}
+
+	.aboutmecontent {
+		text-align: center;
+		font-family:"Raleway", sans-serif;
+		font-size: 30px;
+		margin: auto;
+		padding-left: 8%;
+		padding-right: 8%;
+	}
+
+	#about {
+		padding: 20px;
+	}
+
+	.containerforabout {
+		padding: 20px;
+	}
+
+	/* Project */
+
+	#projects {
+		margin-top: 9%;
+}
+
+	.projectTitle {
+		text-align: center;
+	}
+
+	/* Contact Form */
+	#contact {
+		margin-top: 20%;
+	}
+
+	input, textarea {
+		width: 95%;
+		display: inline-block;
+		padding: 10px;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+	}
+
+	input[type=submit] {
+		width: 50%;
+		background-color: black;
+		color: white;
+		padding: 14px 30px;
+		margin: none;
+		border-radius: 6px;
+		cursor: pointer;
+	}
+
+	.contactform {
+		background-color: #cccccc;
+		width: 400px;
+		height: 350px;
+		padding: 20px;
+		border-radius: 20px;
+	}
+
+	/* Styling Footer */
+
+	footer {
+		padding: 10px;
+		text-align: center;
+		clear: both;
+
+	}
+
+	.footer {
+		padding-top: 10%;
+	}
+
+	.linkedin {
+		width: 30px;
+		height: 30px;
+		padding: 5px;
+	}
+
+	.github {
+		width: 30px;
+		height: 30px;
+		padding: 5px;
+	}
+
+	.gmail {
+		width: 30px;
+		height: 30px;
+		padding: 5px;
+	}
